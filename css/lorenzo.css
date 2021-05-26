@@ -14,7 +14,7 @@ section {
   left: 0;
   width: 100%;
   height: 100vh;
-  background: url(./assets/terra1.webp);
+  background: url("/images/terra1.webp");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
